@@ -5,9 +5,12 @@ using namespace std;
 int main()
 {
     int a;
-    int b;
+    float b;
     cin >> a;
     cin >> b;
-    cout << (a+b) << endl;
+    cout << " la resta de a y b:  "<< (a-b);
+    cout << " la multiplicación de a y b:  " << (a*b);
+    cout << " la división de a y b:  " << (a/b);
+    cout << "la suma de a y b:  " << (a+b)  << endl;
     return 0;
 }
