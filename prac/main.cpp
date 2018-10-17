@@ -24,12 +24,9 @@ void ord(Punto p[],bool asc(int,int)){
     for(int i=0;i<6;i++){
         for(int j=0;j<6;j++){
             if(asc(p[i].x,p[j].x)){
-                int temp=p[i].x;
-                p[i].x=p[j].x;
-                p[j].x=temp;
-                int temp1=p[i].y;
-                p[i].y=p[j].y;
-                p[j].y=temp1;
+                Punto temp=p[i];
+                p[i] = p[j];
+                p[j] = temp;
             }
         }
     }
