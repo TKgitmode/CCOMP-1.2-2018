@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1542111274 source:d:\ccomp 2.1\solucion 1\src\polygonarray.cpp
+	"PolygonArray.h"
+
+1542111297 d:\ccomp 2.1\solucion 1\include\polygonarray.h
+	"Polygon.h"
+
+1542111123 source:d:\ccomp 2.1\solucion 1\main.cpp
+	<iostream>
+	"PolygonArray.h"
+
+1542108414 d:\ccomp 2.1\solucion 1\include\polygon.h
+	<iostream>
+
+1542106534 source:d:\ccomp 2.1\solucion 1\src\polygon.cpp
+	"Polygon.h"
+
+1542100690 source:d:\ccomp2\ccomp-1.2-2018-master\solucion 1\src\polygon.cpp
+	"Polygon.h"
+
+1542118534 d:\ccomp2\ccomp-1.2-2018-master\solucion 1\include\polygon.h
+	<iostream>
+
+1542120456 source:d:\ccomp2\ccomp-1.2-2018-master\solucion 1\src\polygonarray.cpp
+	"PolygonArray.h"
+
+1542119876 d:\ccomp2\ccomp-1.2-2018-master\solucion 1\include\polygonarray.h
+	"Polygon.h"
+
+1542120689 source:d:\ccomp2\ccomp-1.2-2018-master\solucion 1\main.cpp
+	<iostream>
+
